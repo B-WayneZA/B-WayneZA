@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-Year Computer Science Student <br>Aspiring Software Engineer, Data Scientist and Machine Learning Engineer<br>Honsestly, just trying to get W's through code.
+Final-Year Computer Science Student <br>Aspiring Software Engineer, Data Scientist and Machine Learning Engineer<br>Honsestly, just trying to get these W's through code.
 
 
 ## 🌐 Socials:
